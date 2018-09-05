@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "951056747393",
+    "firebase_url": "https://pictogramsapp.firebaseio.com",
+    "project_id": "pictogramsapp",
+    "storage_bucket": "pictogramsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951056747393:android:0f3b11d3a69056c6",
+        "android_client_info": {
+          "package_name": "com.example.crist.pictogramsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951056747393-7vrmcedtn1tp8f7ikbutsc4p3qgr4iqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg0qJrh_OvEgvrMzjBtGC9S-kB-2ZvzAY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
